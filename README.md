@@ -5,7 +5,7 @@ Full Stack & AI Developer | React • Next.js • Node.js • TypeScript • Clo
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered products, and cloud-native solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications%2C+AI-powered+products%2C+and+cloud-native+solutions." />
 </p>
 
 <p align="center">
