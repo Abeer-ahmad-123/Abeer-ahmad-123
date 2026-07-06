@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abeer Ahmed</h1>
 
 <h3 align="center">
-Full Stack & AI Developer | React, Next.js, Node.js & TypeScript
+Full Stack & AI Developer | React • Next.js • Node.js • TypeScript • Cloud
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered products, and modern digital experiences.
+Building scalable web applications, AI-powered products, and cloud-native solutions.
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@ Building scalable web applications, AI-powered products, and modern digital expe
 
 - 🎓 Master's in Artificial Intelligence at Brandenburg University of Technology Cottbus-Senftenberg
 - 💻 Full Stack Developer with 3+ years of professional experience
-- 🤖 Building AI-powered applications, workflows, and automation solutions
+- 🤖 Building AI-powered applications, workflows, automation systems, and intelligent user experiences
 - ⚛️ Specialized in React, Next.js, TypeScript, and modern frontend architecture
 - 🔥 Backend development with Node.js, Express.js, Django, and REST APIs
-- 🌍 Passionate about Artificial Intelligence, SaaS, Software Architecture, and Product Development
-- 📈 Focused on creating scalable, maintainable, and user-centric applications
+- ☁️ Experience deploying and managing applications on AWS, DigitalOcean, Vercel, and Firebase
+- 📈 Passionate about AI, SaaS, Cloud Infrastructure, Software Architecture, and Product Development
 
 ---
 
@@ -61,35 +61,40 @@ Building scalable web applications, AI-powered products, and modern digital expe
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🚀 Tools & DevOps
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🤖 AI-Powered Applications
-Building intelligent applications using LLMs, AI automation, prompt engineering, and modern AI workflows.
+Building intelligent applications using LLMs, AI agents, workflow automation, and modern AI architectures.
 
 ### 💧 OneDrops
-Health & wellness platform focused on helping users understand the bigger picture of their wellness journey.
+Health & wellness platform focused on delivering personalized experiences through modern technology and AI-driven insights.
 
 ### 📚 D Libro
-SEO-focused web platform built with Next.js, optimized for performance, scalability, and user experience.
+SEO-focused web platform built with Next.js, optimized for performance, scalability, and search visibility.
 
 ### 🏫 Better School
-Event management platform where teachers can create events and students can purchase tickets.
+Event management platform enabling teachers to create events and students to purchase tickets seamlessly.
 
 ### 🗺️ Roam Around
-Travel and location-based application featuring mapping integrations and user-centric experiences.
+Location-based application featuring map integrations, route planning, and travel-focused user experiences.
 
 ### 🎮 Finished Games
-Modern gaming-related platform with Twitch integration and scalable backend architecture.
+Gaming platform with Twitch integration, scalable backend services, and modern frontend architecture.
 
 ---
 
@@ -102,11 +107,11 @@ Modern gaming-related platform with Twitch integration and scalable backend arch
 ## 🎯 Current Focus
 
 - 🤖 AI Applications & LLM Integrations
+- 🧠 AI Agents & Workflow Automation
 - ⚡ Next.js & React Architecture
 - 🏗️ Scalable Backend Systems
-- 🔄 Workflow Automation
+- ☁️ Cloud Infrastructure (AWS & DigitalOcean)
 - 🚀 SaaS Product Development
-- 🧠 Applied Artificial Intelligence
 
 ---
 
