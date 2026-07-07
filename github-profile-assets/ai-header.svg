@@ -4,21 +4,21 @@
 
   <defs>
     <linearGradient id="nameGradient" x1="80" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#38BDF8">
-        <animate attributeName="stop-color" values="#38BDF8;#A78BFA;#22C55E;#38BDF8" dur="7s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#BAE6FD">
+        <animate attributeName="stop-color" values="#BAE6FD;#E0F2FE;#BAE6FD" dur="7s" repeatCount="indefinite" />
       </stop>
       <stop offset="45%" stop-color="#F8FAFC">
-        <animate attributeName="stop-color" values="#F8FAFC;#38BDF8;#FDE68A;#F8FAFC" dur="7s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#F8FAFC;#FFFFFF;#F8FAFC" dur="7s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#A78BFA">
-        <animate attributeName="stop-color" values="#A78BFA;#22C55E;#38BDF8;#A78BFA" dur="7s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#CBD5E1">
+        <animate attributeName="stop-color" values="#CBD5E1;#93C5FD;#CBD5E1" dur="7s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
     <linearGradient id="underlineGradient" x1="230" y1="0" x2="670" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="50%" stop-color="#A78BFA" />
-      <stop offset="100%" stop-color="#22C55E" />
+      <stop offset="50%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#38BDF8" />
     </linearGradient>
 
     <filter id="softGlow" x="-25%" y="-80%" width="150%" height="260%" color-interpolation-filters="sRGB">
@@ -94,7 +94,7 @@
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#softGlow)">
     <text x="450" y="86" font-size="42" font-weight="900" fill="url(#nameGradient)">Hi 👋, I'm Abeer Ahmed</text>
-    <text x="450" y="87" font-size="42" font-weight="900" fill="none" stroke="#E2E8F0" stroke-width="0.45" opacity="0.32">Hi 👋, I'm Abeer Ahmed</text>
+    <text x="450" y="87" font-size="42" font-weight="900" fill="none" stroke="#E2E8F0" stroke-width="0.35" opacity="0.22">Hi 👋, I'm Abeer Ahmed</text>
   </g>
 
   <rect x="266" y="105" width="368" height="4" rx="2" fill="url(#underlineGradient)" opacity="0.95">
