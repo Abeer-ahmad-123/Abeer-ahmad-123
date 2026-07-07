@@ -18,8 +18,8 @@ Full Stack & AI Developer | React • Next.js • Node.js • TypeScript • Clo
 
 ## 🚀 About Me
 
-- 🎓 Master's in Artificial Intelligence at Brandenburg University of Technology Cottbus-Senftenberg
-- 💻 Full Stack Developer with 3+ years of professional experience
+- 🎓 Bachelor's in Computer Scince from COMSATS University Islamabad, Lahore Campus
+- 💻 Full Stack Developer with 4+ years of professional experience
 - 🤖 Building AI-powered applications, workflows, automation systems, and intelligent user experiences
 - ⚛️ Specialized in React, Next.js, TypeScript, and modern frontend architecture
 - 🔥 Backend development with Node.js, Express.js, Django, and REST APIs
