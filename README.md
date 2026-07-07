@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-profile-assets/ai-header.svg" alt="Hi, I'm Abeer Ahmed" />
+  <img src="github-profile-assets/ai-header.svg" width="900" height="170" loading="eager" fetchpriority="high" decoding="sync" alt="Hi, I'm Abeer Ahmed" />
 </p>
 
 <h3 align="center">
