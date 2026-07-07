@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abeer Ahmed</h1>
+<p align="center">
+  <img src="github-profile-assets/ai-header.svg" alt="Hi, I'm Abeer Ahmed" />
+</p>
 
 <h3 align="center">
-AI Product Engineer | React • Next.js • Node.js • TypeScript • Cloud
+AI Product Engineer | LLM Apps • AI Agents • RAG • Automation • SaaS
 </h3>
 
 <p align="center">
@@ -18,13 +20,13 @@ AI Product Engineer | React • Next.js • Node.js • TypeScript • Cloud
 
 ## 🚀 About Me
 
-- 🎓 Bachelor's in Computer Scince from COMSATS University Islamabad, Lahore Campus
-- 💻 Full Stack Developer with 4+ years of professional experience
-- 🤖 Building AI-powered applications, workflows, automation systems, and intelligent user experiences
-- ⚛️ Specialized in React, Next.js, TypeScript, and modern frontend architecture
-- 🔥 Backend development with Node.js, Express.js, Django, and REST APIs
-- ☁️ Experience deploying and managing applications on AWS, DigitalOcean, Vercel, and Firebase
-- 📈 Passionate about AI, SaaS, Cloud Infrastructure, Software Architecture, and Product Development
+- 🎓 Bachelor's in Computer Science from COMSATS University Islamabad, Lahore Campus
+- 💻 Full Stack Developer with 4+ years of experience building production web applications
+- 🤖 Focused on LLM-powered products, AI agents, RAG systems, automation workflows, and intelligent user experiences
+- 🧱 Experienced across frontend, backend, databases, cloud deployment, and full stack product architecture
+- ⚙️ Strong with modern JavaScript/TypeScript ecosystems, backend APIs, and cloud-based product delivery
+- ☁️ Experience deploying and managing applications on AWS, DigitalOcean, Vercel, Firebase, and Docker-based environments
+- 🚀 Interested in turning AI ideas into reliable, usable, real-world SaaS products
 
 ---
 
@@ -117,23 +119,55 @@ AI Product Engineer | React • Next.js • Node.js • TypeScript • Cloud
 
 ## 🌟 Featured Projects
 
-### 🤖 AI-Powered Applications
-Building intelligent applications using LLMs, AI agents, workflow automation, and modern AI architectures.
+### 🖼️ [AI Image Comparison](https://ai-compare-hub.com/)
+AI-powered multimedia generation and comparison platform with credits, storage, public/private galleries, and leaderboard rewards.
 
-### 💧 OneDrops
-Health & wellness platform focused on delivering personalized experiences through modern technology and AI-driven insights.
+**Stack:** React, Django, Tailwind CSS, Stripe, AWS
 
-### 📚 D Libro
-SEO-focused web platform built with Next.js, optimized for performance, scalability, and search visibility.
+### 📚 [D Libro](http://d-libro.com/)
+Full-stack platform built for performance, scalability, and search visibility.
 
-### 🏫 Better School
-Event management platform enabling teachers to create events and students to purchase tickets seamlessly.
+**Stack:** Next.js, Django, AWS, PostgreSQL
 
-### 🗺️ Roam Around
-Location-based application featuring map integrations, route planning, and travel-focused user experiences.
+### 🦷 Dental Huddle / OneHudl
+HIPAA-conscious dental practice operations workspace for huddles, schedules, intake, messaging, inventory, reporting, roles, audit logs, and secure workflows.
 
-### 🎮 Finished Games
-Gaming platform with Twitch integration, scalable backend services, and modern frontend architecture.
+**Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, AWS S3
+
+### 🗺️ [Roam Around](https://layla.ai/)
+AI trip-planning experience powered by a modern full-stack architecture.
+
+**Stack:** Next.js, NestJS, OpenAI API
+
+### 🏫 [Better School Events](https://betterschoolevents.com/)
+Polished frontend for school event workflows with payment integration.
+
+**Stack:** React, Stripe, SCSS
+
+### 🧑‍💼 [HR Forum](https://thoughtshr.com/feeds)
+Responsive frontend experience built for clean content, smooth usability, and modern web performance.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS
+
+### 🛏️ [PJT Futon]
+Responsive landing page for a Japan-based custom pillows and mattresses company, focused on quality, craftsmanship, and smooth performance.
+
+**Stack:** Next.js, Tailwind CSS
+
+### 💧 [OneDrops](https://www.onedrops.com/)
+Corporate landing page for a Japan-based company helping PM and PMO leaders execute overseas business strategies.
+
+**Stack:** Next.js, Tailwind CSS
+
+### 🧩 OBB Platform
+Full-stack operational platform built with React, Express, Redux, and MUI.
+
+**Stack:** React, Express, Redux, MUI
+
+### 🔋 [Enxsys](https://www.enxsys.com/)
+Frontend product experience for Enxsys using React, Firebase, and MongoDB-backed workflows.
+
+**Stack:** React, Express, Firebase, MongoDB
 
 ---
 
@@ -149,11 +183,11 @@ Gaming platform with Twitch integration, scalable backend services, and modern f
 
 ## 🎯 Current Focus
 
-- 🤖 AI Applications & LLM Integrations
-- 🧠 AI Agents & Workflow Automation
-- ⚡ Next.js & React Architecture
-- 🏗️ Scalable Backend Systems
-- ☁️ Cloud Infrastructure (AWS & DigitalOcean)
+- 🤖 AI-Powered Products & LLM Integrations
+- 🧠 AI Agents, RAG Systems & Workflow Automation
+- 🧩 Full Stack Product Architecture
+- ⚙️ Scalable Backend Systems & API Design
+- ☁️ Cloud Deployments & Infrastructure
 - 🚀 SaaS Product Development
 
 ---
@@ -167,5 +201,5 @@ Gaming platform with Twitch integration, scalable backend services, and modern f
 ---
 
 <p align="center">
-  <i>"Building products that combine great user experiences with the power of AI."</i>
+  <i>"Building practical AI products that are useful, scalable, and easy to use."</i>
 </p>
