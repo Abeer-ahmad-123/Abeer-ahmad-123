@@ -1,0 +1,109 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hi 👋, I'm Abeer Ahmed</title>
+  <desc id="desc">Animated AI-themed GitHub profile header with glowing text, moving signal particles, and technology chips.</desc>
+
+  <defs>
+    <linearGradient id="nameGradient" x1="80" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#A78BFA;#22C55E;#38BDF8" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="45%" stop-color="#F8FAFC">
+        <animate attributeName="stop-color" values="#F8FAFC;#38BDF8;#FDE68A;#F8FAFC" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#22C55E;#38BDF8;#A78BFA" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="underlineGradient" x1="230" y1="0" x2="670" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#22C55E" />
+    </linearGradient>
+
+    <filter id="softGlow" x="-25%" y="-80%" width="150%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22  0 0 0 0 0.74  0 0 0 0 0.97  0 0 0 0.6 0" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" stroke="#334155" stroke-width="1" opacity="0.28" />
+    </pattern>
+
+    <path id="signalPath" d="M95 91 C190 22 304 29 378 77 S570 150 704 88 S790 40 832 72" />
+  </defs>
+
+  <rect width="900" height="170" rx="20" fill="#0D1117" />
+  <rect x="1" y="1" width="898" height="168" rx="19" stroke="#334155" opacity="0.65" />
+  <rect width="900" height="170" fill="url(#grid)" opacity="0.45" />
+
+  <path d="M95 91 C190 22 304 29 378 77 S570 150 704 88 S790 40 832 72" stroke="#38BDF8" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="8 13" opacity="0.35">
+    <animate attributeName="stroke-dashoffset" values="140;0" dur="7s" repeatCount="indefinite" />
+  </path>
+  <path d="M118 117 C240 70 307 137 423 102 S610 37 781 111" stroke="#A78BFA" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 12" opacity="0.28">
+    <animate attributeName="stroke-dashoffset" values="0;120" dur="9s" repeatCount="indefinite" />
+  </path>
+
+  <g opacity="0.9">
+    <circle r="4.5" fill="#38BDF8" filter="url(#softGlow)">
+      <animateMotion dur="8s" repeatCount="indefinite">
+        <mpath href="#signalPath" />
+      </animateMotion>
+    </circle>
+    <circle r="3.5" fill="#22C55E" filter="url(#softGlow)">
+      <animateMotion dur="8s" begin="-2.7s" repeatCount="indefinite">
+        <mpath href="#signalPath" />
+      </animateMotion>
+    </circle>
+    <circle r="3.8" fill="#A78BFA" filter="url(#softGlow)">
+      <animateMotion dur="8s" begin="-5.4s" repeatCount="indefinite">
+        <mpath href="#signalPath" />
+      </animateMotion>
+    </circle>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(88 38)">
+      <animateTransform attributeName="transform" type="translate" values="88 38;88 31;88 38" dur="5s" repeatCount="indefinite" />
+      <rect width="74" height="28" rx="14" fill="#111827" stroke="#38BDF8" opacity="0.95" />
+      <text x="37" y="18" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="1.5" fill="#BAE6FD">LLM</text>
+    </g>
+
+    <g transform="translate(692 36)">
+      <animateTransform attributeName="transform" type="translate" values="692 36;692 44;692 36" dur="5.8s" repeatCount="indefinite" />
+      <rect width="88" height="28" rx="14" fill="#111827" stroke="#A78BFA" opacity="0.95" />
+      <text x="44" y="18" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="1.4" fill="#DDD6FE">AGENTS</text>
+    </g>
+
+    <g transform="translate(120 116)">
+      <animateTransform attributeName="transform" type="translate" values="120 116;112 116;120 116" dur="6.3s" repeatCount="indefinite" />
+      <rect width="72" height="28" rx="14" fill="#111827" stroke="#22C55E" opacity="0.95" />
+      <text x="36" y="18" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="1.5" fill="#BBF7D0">RAG</text>
+    </g>
+
+    <g transform="translate(640 113)">
+      <animateTransform attributeName="transform" type="translate" values="640 113;648 113;640 113" dur="6.7s" repeatCount="indefinite" />
+      <rect width="112" height="28" rx="14" fill="#111827" stroke="#F97316" opacity="0.95" />
+      <text x="56" y="18" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="1.3" fill="#FED7AA">AUTOMATION</text>
+    </g>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#softGlow)">
+    <text x="450" y="86" font-size="42" font-weight="900" fill="url(#nameGradient)">Hi 👋, I'm Abeer Ahmed</text>
+    <text x="450" y="87" font-size="42" font-weight="900" fill="none" stroke="#E2E8F0" stroke-width="0.45" opacity="0.32">Hi 👋, I'm Abeer Ahmed</text>
+  </g>
+
+  <rect x="266" y="105" width="368" height="4" rx="2" fill="url(#underlineGradient)" opacity="0.95">
+    <animate attributeName="x" values="266;306;266" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="width" values="368;288;368" dur="4.5s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="450" cy="107" r="3" fill="#F8FAFC">
+    <animate attributeName="cx" values="268;632;268" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;0.65;0" dur="4.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
