@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeer Ahmed</h1>
 
 <h3 align="center">
-Full Stack & AI Developer | React • Next.js • Node.js • TypeScript • Cloud
+AI Product Engineer | React • Next.js • Node.js • TypeScript • Cloud
 </h3>
 
 <p align="center">
