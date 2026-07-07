@@ -129,11 +129,6 @@ Full-stack platform built for performance, scalability, and search visibility.
 
 **Stack:** Next.js, Django, AWS, PostgreSQL
 
-### 🦷 Dental Huddle / OneHudl
-HIPAA-conscious dental practice operations workspace for huddles, schedules, intake, messaging, inventory, reporting, roles, audit logs, and secure workflows.
-
-**Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, AWS S3
-
 ### 🗺️ [Roam Around](https://layla.ai/)
 AI trip-planning experience powered by a modern full-stack architecture.
 
@@ -149,25 +144,30 @@ Responsive frontend experience built for clean content, smooth usability, and mo
 
 **Stack:** Next.js, TypeScript, Tailwind CSS
 
-### 🛏️ [PJT Futon]
-Responsive landing page for a Japan-based custom pillows and mattresses company, focused on quality, craftsmanship, and smooth performance.
-
-**Stack:** Next.js, Tailwind CSS
-
 ### 💧 [OneDrops](https://www.onedrops.com/)
 Corporate landing page for a Japan-based company helping PM and PMO leaders execute overseas business strategies.
 
 **Stack:** Next.js, Tailwind CSS
 
-### 🧩 OBB Platform
-Full-stack operational platform built with React, Express, Redux, and MUI.
-
-**Stack:** React, Express, Redux, MUI
-
 ### 🔋 [Enxsys](https://www.enxsys.com/)
 Frontend product experience for Enxsys using React, Firebase, and MongoDB-backed workflows.
 
 **Stack:** React, Express, Firebase, MongoDB
+
+### 🛏️ PJT Futon
+Responsive landing page for a Japan-based custom pillows and mattresses company, focused on quality, craftsmanship, and smooth performance.
+
+**Stack:** Next.js, Tailwind CSS
+
+### 🦷 Dental Huddle / OneHudl
+HIPAA-conscious dental practice operations workspace for huddles, schedules, intake, messaging, inventory, reporting, roles, audit logs, and secure workflows.
+
+**Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, AWS S3
+
+### 🧩 OBB Platform
+Full-stack operational platform built with React, Express, Redux, and MUI.
+
+**Stack:** React, Express, Redux, MUI
 
 ---
 
